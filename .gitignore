@@ -1,0 +1,14 @@
+# This repo only hosts compiled releases via GitHub Releases
+# No source code is tracked
+
+# Ignore everything
+*
+
+# Except these files
+!.gitignore
+!LICENSE
+!README.md
+
+# OS files
+.DS_Store
+Thumbs.db
