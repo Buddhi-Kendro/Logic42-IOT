@@ -160,7 +160,7 @@ Full documentation at **[doc-logic42-iot-oss.web.app](https://doc-logic42-iot-os
 - 📖 [Documentation](https://doc-logic42-iot-oss.web.app)
 - 🐛 [Report Issues](https://github.com/Buddhi-Kendro/Logic42-IOT/issues)
 - 💬 [Discussions](https://github.com/Buddhi-Kendro/Logic42-IOT/discussions)
-- 📧 Contact: support@logic42.cloud
+- 📧 Contact: customersuccess@buddhikendro.com
 
 ---
 
@@ -168,7 +168,7 @@ Full documentation at **[doc-logic42-iot-oss.web.app](https://doc-logic42-iot-os
 
 Logic42-IOT is proprietary software developed by [Buddhi-Kendro](https://github.com/Buddhi-Kendro).
 
-Pre-built images are provided free for evaluation and non-commercial use. For commercial licensing, contact [licensing@logic42.cloud](mailto:licensing@logic42.cloud).
+Pre-built images are provided free for evaluation and non-commercial use. For commercial licensing, contact [customersuccess@buddhikendro.com](mailto:customersuccess@buddhikendro.com).
 
 See [LICENSE](LICENSE) for full terms.
 
